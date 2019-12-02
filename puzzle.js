@@ -1,3 +1,6 @@
+const module = new Binaryen.Module()
+console.log(module)
+
 const fuelCalc = (mass) => Math.floor(mass / 3) - 2
 
 function calcFuelRecurse(mass) {
