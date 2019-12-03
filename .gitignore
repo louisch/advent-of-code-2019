@@ -1,4 +1,4 @@
-
+# Web
 .cache/
 coverage/
 dist/
@@ -14,3 +14,6 @@ node_modules/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Rust
+target/
