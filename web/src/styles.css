@@ -1,0 +1,35 @@
+h1 {
+  color: white;
+  background-color: black;
+}
+
+.wrapper {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.textarea {
+  width: 30%;
+  height: 20%;
+  font-size: 12pt;
+  padding: 10px;
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+}
+
+.output: {
+  width: 30%;
+  height: 5%;
+  font-size: 12pt;
+}
+
+.day2 {
+  display: flex;
+  flex-direction: column;
+}
+
+.button {
+  width: 150px;
+}
